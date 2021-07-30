@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31521.260
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LocalStorageInsideDL", "LocalStorageInsideDL\LocalStorageInsideDL.csproj", "{8AC287B7-D556-4203-8A0B-1FFF30D29065}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8AC287B7-D556-4203-8A0B-1FFF30D29065}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AC287B7-D556-4203-8A0B-1FFF30D29065}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AC287B7-D556-4203-8A0B-1FFF30D29065}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AC287B7-D556-4203-8A0B-1FFF30D29065}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ECF5D721-93A1-4299-8A49-C277F4C4A7BA}
+	EndGlobalSection
+EndGlobal
